@@ -1,0 +1,22 @@
+{
+  "name": "next-federated-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimre73/next-federated-wrapper.git"
+  },
+  "keywords": [
+    "next"
+  ],
+  "author": "Mohammad Rezaei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimre73/next-federated-wrapper/issues"
+  },
+  "homepage": "https://github.com/mimre73/next-federated-wrapper#readme"
+}
